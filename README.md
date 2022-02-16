@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jorshyy
 - 👀 I’m interested in always improving my yesterday self.
-- 🌱 I’m currently learning JavaScript then will be moving onto HTML/CSS in the next couple months.
-- 💞️ I’m looking to collaborate on making websites for clients. I would love to collaberate on websites and make a team to deliver quality websites.
-- 📫 How to reach me ... You can message or email me anytime! Jorshyy19367@gmail.com
+- 🌱 I’m currently teaching myself to become a Full-Stack Developer.
+- 💞️ I’m looking to collaborate to join an entry level job. 
+- 📫 How to reach me ... You can message or email me anytime! Jorshyy19367@gmail.com (208)-982-7437
 
 <!---
 Jorshyy/Jorshyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
